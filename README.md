@@ -1,5 +1,5 @@
-## Wreckfest 2 Dedicated Server Linux - Headless Guide
+Energritz's Gudies
 
-You can find the guide here
+You can find all my guides on the wiki section
 
-https://github.com/Energritz/Wreckfest-2-Dedicated-Server-Linux-Headless-Guide/wiki/Wreckfest-2-Dedicated-Server-Linux-%E2%80%90-Headless-Guide
+https://github.com/Energritz/Guides/wiki
