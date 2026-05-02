@@ -2,4 +2,4 @@
 
 You can find all my guides on the wiki section
 
-https://github.com/Energritz/Guides/wiki
+https://github.com/Energritz/Guides/wiki/Energritz-Guides
